@@ -73,3 +73,5 @@ public class ItemListAdapter extends ArrayAdapter {
         TextView tvShortDesc;
     }
 }
+
+/* Hello My First Android */
